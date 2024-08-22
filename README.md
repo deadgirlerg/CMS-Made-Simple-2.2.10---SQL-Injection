@@ -16,7 +16,7 @@ ImportError: No module named termcolor
 
   <h2> Ejemplo de comando </h2>
   
-  <code> python cve.py -u http://target --crack -w /usr/share/wordlists/best110.txt   
+  <code> python cve.py -u http://target --crack -w /usr/share/wordlists/ejemplo.txt   
  </code>
   
   <h1> Ejemplo del Resultado:
