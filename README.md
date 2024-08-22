@@ -33,5 +33,3 @@ ImportError: No module named termcolor
 # Utilice esta herramienta solo en entornos donde se le permita realizar actividades de pruebas de penetración..
 # No utilice esta herramienta con fines maliciosos.
 
-
-<a href="https://www.buymeacoffee.com/deadgirlerg"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=deadgirlerg&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
